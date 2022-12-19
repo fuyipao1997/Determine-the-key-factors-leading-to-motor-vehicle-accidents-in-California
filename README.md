@@ -1,4 +1,4 @@
-# Determine-the-key-factors-leading-to-motor-vehicle-accidents-in-California
+# Determine the key factors leading to motor vehicle accidents in California
 ## <b> 1. Project Objective</b>
 Our main goal is to determine key factors that lead to fatal traffic accidents in California, based on multiple metrics in the historical data, including the weather condition, day of the week, road type, etc. To achieve this, we will apply explorative techniques in Google Bigquery and build an regression machine learning model. Using the results to the interests of the government and the driving community, providing evidence in areas that need to be improved, suggesting actions that could better alleviate accidents and enhance overall road safety.
 ## <b> 2. Report Summary</b>
